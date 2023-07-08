@@ -1,0 +1,5 @@
+{
+  "type": "Request",
+  "schedule": "* * * * *",
+  "url": "https://urlToRequest.com"
+}
